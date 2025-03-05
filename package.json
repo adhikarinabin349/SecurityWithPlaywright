@@ -1,0 +1,27 @@
+{
+  "name": "securitywithplaywright",
+  "version": "1.0.0",
+  "description": "Playwright can be a valuable tool for building a security testing framework, particularly for browser-based security vulnerabilities.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikarinabin349/SecurityWithPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikarinabin349/SecurityWithPlaywright/issues"
+  },
+  "homepage": "https://github.com/adhikarinabin349/SecurityWithPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "zaproxy": "^2.0.0-rc.6"
+  }
+}
